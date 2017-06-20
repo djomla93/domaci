@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='tuples, functions'/>
+        <page name='re-factoring'/>
+        <page name='objects'/>
+        <page name='objects+FP'/>
+        <page name='objects+FP-re-factor'/>
+        <page name='vezbe'/>
+        <page name='vezbe2'/>
+        <page name='vezbe3'/>
+    </pages>
+</playground>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='start'/>
+        <page name='step2'/>
+        <page name='step3a'/>
+        <page name='step3b'/>
+        <page name='step3c'/>
+        <page name='step4'/>
+        <page name='step5 - re-factor'/>
+        <page name='step6 - re-factor'/>
+        <page name='step7 - re-factor'/>
+        <page name='step7a'/>
+        <page name='step8'/>
+    </pages>
+</playground>
